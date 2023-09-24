@@ -9,7 +9,7 @@ for i in text:
             temp = chr(((ord(i)-ord('a')+key)%26)+ord('a'))
             et+=temp
         if(i.isupper()):
-            temp = chr(((ord(i)-ord('A')+key)%26)+ord('a'))
+            temp = chr(((ord(i)-ord('A')+key)%26)+ord('A'))
             et+=temp
         if(i.isnumeric()):
             temp = chr(((ord(i)-ord('0')+key)%10)+ord('0'))
@@ -26,7 +26,7 @@ for i in et:
             temp = chr(((ord(i)-ord('a')-key)%26)+ord('a'))
             text+=temp
         if(i.isupper()):
-            temp = chr(((ord(i)-ord('A')-key)%26)+ord('a'))
+            temp = chr(((ord(i)-ord('A')-key)%26)+ord('A'))
             text+=temp
         if(i.isnumeric()):
             temp = chr(((ord(i)-ord('0')-key)%10)+ord('0'))
