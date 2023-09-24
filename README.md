@@ -1,4 +1,4 @@
 # cnscode
 
-Clone chesko pandaga chesko
-Copy kottu exam pattu 
+* Clone chesko pandaga chesko
+* Copy kottu exam pattu 
