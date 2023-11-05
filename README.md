@@ -1,8 +1,11 @@
-
-# Codes work only if plain text is: jai mana batch
-
-* Clone chesko pandaga chesko
-* Copy kottu exam pattu
-
-
-![sticker](https://github.com/manabatch/cnscode/assets/131910695/4c12ed41-1c76-46f2-b2ae-b93d4e0db708)
+# Abbrevations for the codes
+* DHA - Diffie Hellman
+* SC - Simple Columnar
+* ASC - Advanced Simple Columnar
+* EA - Euclidean Algorithm
+# steps to run 
+* git clone url
+* cd cnscode
+* gedit filename ( to edit and shi)
+* python3/gcc filename to run the code
+# Clone chesko, pandaga chesko 
