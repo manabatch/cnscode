@@ -3,6 +3,7 @@
 * SC - Simple Columnar
 * ASC - Advanced Simple Columnar
 * EA - Euclidean Algorithm
+* BEA - Basic Euclidean Algorithm
 # steps to run 
 * git clone url
 * cd cnscode
